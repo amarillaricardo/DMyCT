@@ -1,11 +1,10 @@
-# 📊 DMyCT - Data Mining y Ciencia y Tecnología
+# DMyCT - Data Mining y Ciencia y Tecnología
 
-Este repositorio contiene los trabajos prácticos de la materia **Data Mining y Ciencia y Tecnología (DMyCT)**, dictada en el marco de la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento**.
+Este repositorio contiene los trabajos prácticos de la materia **Data Mining y Ciencia y Tecnología (DMyCT)**, correspondiente a la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento**.
 
-La materia aborda el uso de técnicas de minería de datos aplicadas a problemáticas concretas en ciencia y tecnología. Se trabajan temas como análisis de datos astronómicos, bioinformática, clustering avanzado, análisis de redes y sistemas de información geográfica (GIS), integrando métodos estadísticos, ontologías y estándares de la industria.
+La materia aborda el uso de técnicas de minería de datos aplicadas a problemas reales en distintos campos de la ciencia y la tecnología. A lo largo del curso se exploran casos como el análisis de datos astronómicos, bioinformáticos, geográficos y de redes, integrando herramientas de clasificación, clustering, análisis estadístico, representación semántica y estándares de la industria.
 
-El enfoque es tanto teórico como práctico, promoviendo la exploración de grandes volúmenes de datos y el descubrimiento de patrones relevantes para distintas disciplinas científicas y tecnológicas.
+Los trabajos prácticos que encontrarás aquí combinan teoría y programación, aplicando métodos modernos para extraer conocimiento a partir de grandes volúmenes de datos.
 
 ---
 
-> 🚀 ¡Explorar datos es descubrir conocimiento oculto en la complejidad del mundo real!
